@@ -1,0 +1,1 @@
+For one of my classes I have to make a project with my group so having a common repository with my team I think wold be the ideal move. The project as of now is going to be a sports highlight extractor. We can each work in our individual branches and merge when we have our features ready. 
